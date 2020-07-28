@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hola!
+Soy un análista de sistemas que durante mucho tiempo fue sacando provecho y perfeccionando sus conocimientos sobre el análisis de datos.
+Siempre me preocupe porque los datos reflejen de la mejor manera la realidad (en algunos casos con mejor resultados que otros) y por lo tanto siempre me vi envuelto en tecnologías como SQL, API's, Python y diferentes herramientas de BI como QlikView, Power BI, etc.
+
+- :computer: Actualmente estoy trabajando como Analista y Desarrollador de Business Intelligence en Power BI principalmente pero no exclusivamente.
+- :rocket: Estoy capacitando como Data Science en Digital House.
 
 <!--
 **jmclaps/jmclaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
